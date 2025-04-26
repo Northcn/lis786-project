@@ -19,6 +19,7 @@ a headache to deal with.
 <br>
 Below are ways to keep your account safe.
 <br>
+<br>
 {% include page-image.html %}
 <br>
 1. Strong Password: Strong passwords is the easiest way to make sure your account is safe. Always keep your 
