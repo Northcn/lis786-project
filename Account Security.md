@@ -9,4 +9,8 @@ my_variable: Welcome to Account Security
 
 {{ page.my_variable }}
 
+<br>
+<br>
+
+
 {% include page-image.html %}
