@@ -8,9 +8,6 @@ my_variable: Welcome to Account Security
 ---
 
 {{ page.my_variable }}
-
-<br>
-<br>
 <br>
 You need an account now to access personal online services such as banking, shopping, entertainment, and socializing.
 All of those types of websites will ask for personal information such as name, address, telephone number, and email address,
@@ -18,5 +15,5 @@ credit card information, and sometimes your social security number (SSN).
 This is why it's important to have strong account security, so you can protect your private information, avoid 
 identity threat prevent, or unauthorized access. If your personal information were to be stolen, it can be 
 a headache to deal with.
-
+<br>
 {% include page-image.html %}
