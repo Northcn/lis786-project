@@ -56,4 +56,4 @@ such as a login on a different device or a hacker trying to change your password
 This allows you the chance to act quickly to protect your account.
 <br>
 <br>
-![Alerts](https://img.freepik.com/premium-vector/alert-message-mobile-notification-smartphone-screen-concept-illustration_118124-3436.jpg)
+![Alerts](https://www.cybrosys.com/odoo-apps/uploads/appimg/user-login-alert.png)
