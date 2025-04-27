@@ -48,3 +48,12 @@ Clicking on these suspicious links/messages/emails can lead to your account and 
 <br>
 <br>
 ![Phishing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_f3Bs9akbXIbTlC9L2vPK3oX5fCtNu_EDQ&s)
+<br>
+<br>
+**4. Always Keep Alerts On:**
+Enable alerts on all your accounts to notify of any usual activity, 
+such as a login on a different device or a hacker trying to change your password.
+This allows you the chance to act quickly to protect your account.
+<br>
+<br>
+![Alerts](https://img.freepik.com/premium-vector/alert-message-mobile-notification-smartphone-screen-concept-illustration_118124-3436.jpg)
