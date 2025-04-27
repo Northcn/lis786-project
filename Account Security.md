@@ -36,3 +36,6 @@ This adds an extra protection to your account by requiring a second type of veri
 than your password. This could be a code sent to your number or email address, or a 
 biometric scan.
 *You should always turn this on if you have the option because it can be the thing to stop your account from being hacked* 
+<br>
+<br>
+![MFA](https://netgaincloud.com/wp-content/uploads/2024/02/2FA.jpg)
