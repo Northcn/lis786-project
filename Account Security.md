@@ -26,6 +26,7 @@ Below are ways to keep your account safe.
 passwords long (+12 characters), mix upper and lowercase letters, numbers, and special characters.
 **Do NOT use easily guessed information or passwords such 'password' or your first and last name**
 <br>
+<br>
 ![safe passwords](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyI1tGr8eNTwLsOpPWPNGRo9Ob9JPaDzZFFA&s)
 
 
