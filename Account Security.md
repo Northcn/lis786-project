@@ -25,6 +25,7 @@ Below are ways to keep your account safe.
 **1. Strong Password**:
  Strong passwords is the easiest way to make sure your account is safe. Always keep your 
 passwords long (+12 characters), mix upper and lowercase letters, numbers, and special characters.
+Use different passwords for different accounts and change your password regurlarly.
 *Do NOT use easily guessed information or passwords such 'password' or your first and last name*
 <br>
 <br>
