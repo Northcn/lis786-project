@@ -40,3 +40,9 @@ biometric scan.
 <br>
 <br>
 ![MFA](https://netgaincloud.com/wp-content/uploads/2024/02/2FA.jpg)
+<br>
+<br>
+**3. Beware of Phishing Scams:**
+Do not click on suspicious emails, texts, or links. Look out for bad spelling or grammar.
+Clicking on these suspicious links/messages/emails can lead to your account and information being stolen.
+ 
