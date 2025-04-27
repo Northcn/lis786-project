@@ -32,4 +32,7 @@ passwords long (+12 characters), mix upper and lowercase letters, numbers, and s
 <br>
 <br>
 **2. Two-Factor Authentication(2FA)/Multi-Factor Authentication (MFA):** 
-An extra protection for your account. 
+This adds an extra protection to your account by requiring a second type of verification other
+than your password. This could be a code sent to your number or email address, or a 
+biometric scan.
+*You should always turn this on if you have the option because it can be the thing to stop your account from being hacked* 
