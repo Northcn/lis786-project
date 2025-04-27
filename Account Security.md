@@ -25,5 +25,7 @@ Below are ways to keep your account safe.
 1. Strong Password: Strong passwords is the easiest way to make sure your account is safe. Always keep your 
 passwords long (+12 characters), mix upper and lowercase letters, numbers, and special characters.
 **Do NOT use easily guessed information or passwords such 'password' or your first and last name**
+<br>
+![safe passwords](https://beconnected.esafety.gov.au/pluginfile.php/74452/mod_resource/content/1/t31_c1_a1_p3.png)
 
 
