@@ -22,11 +22,14 @@ Below are ways to keep your account safe.
 <br>
 {% include page-image.html %}
 <br>
-1. Strong Password: Strong passwords is the easiest way to make sure your account is safe. Always keep your 
+**1. Strong Password**:
+ Strong passwords is the easiest way to make sure your account is safe. Always keep your 
 passwords long (+12 characters), mix upper and lowercase letters, numbers, and special characters.
 **Do NOT use easily guessed information or passwords such 'password' or your first and last name**
 <br>
 <br>
 ![safe passwords](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyI1tGr8eNTwLsOpPWPNGRo9Ob9JPaDzZFFA&s)
-
-
+<br>
+<br>
+**2. Two-Factor Authentication(2FA)/Multi-Factor Authentication (MFA):** 
+An extra protection for your account. 
