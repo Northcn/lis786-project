@@ -45,4 +45,6 @@ biometric scan.
 **3. Beware of Phishing Scams:**
 Do not click on suspicious emails, texts, or links. Look out for bad spelling or grammar.
 Clicking on these suspicious links/messages/emails can lead to your account and information being stolen.
- 
+<br>
+<br>
+![Phishing](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_f3Bs9akbXIbTlC9L2vPK3oX5fCtNu_EDQ&s)
