@@ -46,3 +46,12 @@ a wiped out device.
 <br>
 <br>
 ![ErasedData](https://help.apple.com/assets/627006AE5E36F723E7709043/627006AF5E36F723E770905F/en_US/ad0cef637b6fd35ffa16217d40f4af36.png)
+<br>
+<br>
+**4. Avoid Public WI-FI For Sensitive Activities**
+Using public WIFI to access private information is risky on public WIFI because 
+these networks can be vulnerable to hackers. You can be at risk of 
+Man-in-the-Middle attacks (MitM), stolen login credentials, and banking data.
+<br>
+<br>
+![FreeWifi](https://www.ramsac.com/wp-content/uploads/2021/10/ramsac-no-Wifi-blog.png)
