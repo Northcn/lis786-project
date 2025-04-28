@@ -45,4 +45,4 @@ and wipe your mobile device. If the hacker is able to bypass your passcode, they
 a wiped out device.
 <br>
 <br>
-![ErasedData](https://help.apple.com/assets/677EB6990E35CFE25809758B/677EB69E5AFECC5ECD0B4978/en_US/1162537ef5b43bf42b281637bc7c1e97.png)
+![ErasedData](https://help.apple.com/assets/627006AE5E36F723E7709043/627006AF5E36F723E770905F/en_US/ad0cef637b6fd35ffa16217d40f4af36.png)
