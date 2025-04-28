@@ -68,6 +68,7 @@ and potentially steal your information.
 ![SafePassword](https://www.uxbridgeschools.com/cms/lib/MA50000413/Centricity/Domain/176/NoPasswordSharing.png)
 <br>
 <br>
+<br>
 By following these steps, you can significantly lower your chances of being hacked. Stay updated on 
 any possible data breaches to websites, educate yourself on how to keep your accounts safe, and take the 
 precations to stay safe.
