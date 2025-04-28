@@ -55,3 +55,11 @@ Man-in-the-Middle attacks (MitM), stolen login credentials, and banking data.
 <br>
 <br>
 ![FreeWifi](https://www.ramsac.com/wp-content/uploads/2021/10/ramsac-no-Wifi-blog.png)
+<br>
+<br>
+*5. Back up Your Data Consistently**
+Protect your data from being lost by regularly backing it up on a safe storage. If your mobile device
+is ever stolen and lost, you can recover your important information.
+<br>
+<br>
+![BackupData](https://myfastech.com/wp-content/uploads/2020/04/smallbackup.jpg) 
