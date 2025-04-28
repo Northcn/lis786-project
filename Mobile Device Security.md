@@ -43,3 +43,6 @@ and the person is able to log into the phone. Certain apps may still be inaccesi
 This is extremely important if your device is stolen, you are able to log in through another device
 and wipe your mobile device. If the hacker is able to bypass your passcode, they will be met with
 a wiped out device.
+<br>
+<br>
+![ErasedData](https://help.apple.com/assets/677EB6990E35CFE25809758B/677EB69E5AFECC5ECD0B4978/en_US/1162537ef5b43bf42b281637bc7c1e97.png)
