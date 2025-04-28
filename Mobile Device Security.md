@@ -20,7 +20,7 @@ This is why it's important to keep all your mobile devices safe from hackers.
 Below are ways to keep your mobile devices safe.
 <br>
 <br>
-**1. Use Strong Lockdown Passwords**
+**1. Use Strong Lockdown Passwords For Your Mobile Device**
 Always set a strong PIN, password, or a biometric feature such as fingerprint or face recognition to lock
 your mobile device. Never leave your mobile devices without some type of password because if it's stolen,
 they will have free access to your information.
@@ -29,4 +29,8 @@ they will have free access to your information.
 ![Passcode](https://i.insider.com/58a5d604dd089560288b46a8?width=700)
 <br>
 <br>
- 
+**2. Use Strong Passwords For Your Apps**
+There are apps such as bank apps that provides you with an extra set of protection by using
+a biometric feature. There are also safe apps you can download in the app store that allow you
+to add passcodes to whatever app you want. This is smart to have if your mobile device is ever stolen
+and the person is able to log into the phone. Certain apps may still be inaccesible to them. 
