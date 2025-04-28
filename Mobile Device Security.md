@@ -37,3 +37,9 @@ and the person is able to log into the phone. Certain apps may still be inaccesi
 <br>
 <br>
 ![AppPasscode](https://play-lh.googleusercontent.com/BP8yCuz60U2cP0AyX0fqc7F50Ra2-Gyw24mQn7xq9q_QQw26jc7fGsbWfAdCD8S9FQ=w240-h480-rw)
+<br>
+<br>
+**3. Always Remember Your Email/ICloud Connected to Your Device**
+This is extremely important if your device is stolen, you are able to log in through another device
+and wipe your mobile device. If the hacker is able to bypass your passcode, they will be met with
+a wiped out device.
