@@ -15,3 +15,18 @@ my_variable: Welcome to Mobile Device Security
 Cell Phones have become very important and are used for a lot of important things such as banking, social media,
 emails, contacts, photos, messages, financial data such as credit cards, and other private information.
 This is why it's important to keep all your mobile devices safe from hackers.
+<br>
+<br>
+Below are ways to keep your mobile devices safe.
+<br>
+<br>
+**1. Use Strong Lockdown Passwords**
+Always set a strong PIN, password, or a biometric feature such as fingerprint or face recognition to lock
+your mobile device. Never leave your mobile devices without some type of password because if it's stolen,
+they will have free access to your information.
+<br>
+<br>
+![Passcode](https://i.insider.com/58a5d604dd089560288b46a8?width=700)
+<br>
+<br>
+ 
