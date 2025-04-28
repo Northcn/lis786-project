@@ -57,3 +57,12 @@ This allows you the chance to act quickly to protect your account.
 <br>
 <br>
 ![Alerts](https://www.cybrosys.com/odoo-apps/uploads/appimg/user-login-alert.png)
+<br>
+<br>
+**5. Never Share Your Password With Anyone**
+Never share your password with anyone, even people you think you can trust.
+Sharing your password allows the person to access your account unauthorized,
+and potentially steal your information.
+<br>
+<br>
+![SafePassword](https://www.uxbridgeschools.com/cms/lib/MA50000413/Centricity/Domain/176/NoPasswordSharing.png)
