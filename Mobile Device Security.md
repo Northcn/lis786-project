@@ -11,6 +11,7 @@ my_variable: Welcome to Mobile Device Security
 
 {% include page-image.html %}
 <br>
+<br>
 Cell Phones have become very important and are used for a lot of important things such as banking, social media,
 emails, contacts, photos, messages, financial data such as credit cards, and other private information.
 This is why it's important to keep all your mobile devices safe from hackers.
