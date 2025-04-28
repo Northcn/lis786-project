@@ -1,7 +1,9 @@
 ---
 title: Hacking
-category: Social Media Safety
+category: Types of Hacks
 image: https://cdn.mos.cms.futurecdn.net/wXmKTCLgaaSPhzpmBvGPK9.jpg
 ---
 
-Social Media Safety is very important. Signing up for social media usually includes using your private information which could be hacked. There's also people out there who will ask for your information online. It's important to always be weary of people online especially if their asking for your private information.
+Understanding the different types of cyberattacks is important to keeping your information safe. Hackers use different
+methods to gain unauthorized access to your accounts and databases. These attacks are very damaging as they can steal
+your personal information, cause financial loss, and damage to your reputation.
