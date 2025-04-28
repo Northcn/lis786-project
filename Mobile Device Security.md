@@ -34,3 +34,6 @@ There are apps such as bank apps that provides you with an extra set of protecti
 a biometric feature. There are also safe apps you can download in the app store that allow you
 to add passcodes to whatever app you want. This is smart to have if your mobile device is ever stolen
 and the person is able to log into the phone. Certain apps may still be inaccesible to them. 
+<br>
+<br>
+![AppPasscode](https://play-lh.googleusercontent.com/BP8yCuz60U2cP0AyX0fqc7F50Ra2-Gyw24mQn7xq9q_QQw26jc7fGsbWfAdCD8S9FQ=w240-h480-rw)
