@@ -1,7 +1,7 @@
 ---
 title: Hacking
 category: Types of Hacks
-image: https://cdn.mos.cms.futurecdn.net/wXmKTCLgaaSPhzpmBvGPK9.jpg
+image: https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/66ceeb4ca81c6263e6aaa8e2_622b1df712adfa4ebff027a5_types%2520of%2520cyber%2520attack.jpeg
 ---
 
 Understanding the different types of cyberattacks is important to keeping your information safe. Hackers use different
