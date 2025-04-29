@@ -16,6 +16,8 @@ extorting money from users through ransomware; or interrupting normal business p
 
 
 - Phishing
+    A cyberattack that pretends to be a trustworthy source sending you emails, messages, or website links. 
+    When you click it, it steals your personal information such as login information or credit card information.
 - Malware
 - Man-in-the-Middle (MitM) Attacks
 - Brute Force Attacks
