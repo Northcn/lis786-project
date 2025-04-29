@@ -18,12 +18,33 @@ extorting money from users through ransomware; or interrupting normal business p
 - Phishing
     A cyberattack that pretends to be a trustworthy source sending you emails, messages, or website links. 
     When you click it, it steals your personal information such as login information or credit card information.
+<br>
+<br>
 - Malware
+    Program inserted into a system with the intent of compromising the information of the victims.
+<br>
+<br>
 - Man-in-the-Middle (MitM) Attacks
+    A cyberattack that intercepts communication between two parties. It allows the hacker to eavesdrop
+    on conversations or steal data.
+<br>
+<br>
 - Brute Force Attacks
+<br>
 - Social Engineering
+<br>
+<br>
 - Credential Stuffing
+<br>
+<br>
 - Credential Harvesting
+<br>
+<br>
 - SIM Swapping
+<br>
+<br>
 - QR Code Scams
+<br>
+<br>
 - Data Breaches
+
