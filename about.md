@@ -15,16 +15,16 @@ extorting money from users through ransomware; or interrupting normal business p
  CyberSecurity Threats that can compromise emails, passwords, and social media accounts
 
 
-- Phishing
+- Phishing:
     A cyberattack that pretends to be a trustworthy source sending you emails, messages, or website links. 
     When you click it, it steals your personal information such as login information or credit card information.
 <br>
 <br>
-- Malware
+- Malware:
     Program inserted into a system with the intent of compromising the information of the victims.
 <br>
 <br>
-- Man-in-the-Middle (MitM) Attacks
+- Man-in-the-Middle (MitM) Attacks:
     A cyberattack that intercepts communication between two parties. It allows the hacker to eavesdrop
     on private conversations or steal data.
 <br>
