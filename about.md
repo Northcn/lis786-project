@@ -15,36 +15,36 @@ extorting money from users through ransomware; or interrupting normal business p
  CyberSecurity Threats that can compromise emails, passwords, and social media accounts
 
 
-- Phishing<br>
+- **Phishing**<br>
     A cyberattack that pretends to be a trustworthy source sending you emails, messages, or website links. 
     When you click it, it steals your personal information such as login information or credit card information.
 <br>
 <br>
-- Malware<br>
+- **Malware**<br>
     Program inserted into a system with the intent of compromising the information of the victims.
 <br>
 <br>
-- Man-in-the-Middle (MitM) Attacks<br>
+- **Man-in-the-Middle (MitM) Attacks**<br>
     A cyberattack that intercepts communication between two parties. It allows the hacker to eavesdrop
     on private conversations or steal data.
 <br>
 <br>
-- Brute Force Attacks
+- **Brute Force Attacks**
 <br>
-- Social Engineering
-<br>
-<br>
-- Credential Stuffing
+- **Social Engineering**
 <br>
 <br>
-- Credential Harvesting
+- **Credential Stuffing**
 <br>
 <br>
-- SIM Swapping
+- **Credential Harvesting**
 <br>
 <br>
-- QR Code Scams
+- **SIM Swapping**
 <br>
 <br>
-- Data Breaches
+- **QR Code Scams**
+<br>
+<br>
+- **Data Breaches**
 
