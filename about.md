@@ -29,22 +29,38 @@ extorting money from users through ransomware; or interrupting normal business p
     on private conversations or steal data.
 <br>
 <br>
-- **Brute Force Attacks**
-<br>
-- **Social Engineering**
-<br>
-<br>
-- **Credential Stuffing**
+- **Brute Force Attacks**<br>
+    Brute Force Attacks is essentially a guessing game. A hacker will try multiple logins until
+    they get the correct one. 
 <br>
 <br>
-- **Credential Harvesting**
+- **Social Engineering**<br>
+    Manipulating or threatening someone into revealing private information. It's more about
+    manipulating someone than a technical threat.
 <br>
 <br>
-- **SIM Swapping**
+- **Credential Stuffing**<br>
+    A type of cyberattack in which your login information is stolen from a data breach and used
+    to attempt to log into another site because many people use the same login information for 
+    multiple websites.
 <br>
 <br>
-- **QR Code Scams**
+- **SIM Swapping**<br>
+    When hackers gain access to someone's phone number which allows them to access personal information.
+    This happens when the hacker convinces a mobile carrier to transfer the individual's phone number to 
+    to the hacker's SIM card, giving them access to everyone on your mobile device. 
 <br>
 <br>
-- **Data Breaches**
+- **QR Code Scams**<br>
+    QR Code Scams are being increasingly more common because of the higher use of QR codes now.For example, 
+    many restaurants have started to use QR codes to display their menu. There are now malicious QR codes that 
+    lead to fake websites and steal your information.
+<br>
+<br>
+- **Data Breaches**<br>
+    When the company's website is hacked into by someone not authorized and gains access to important data.
+    Data breaches alot of times are unavoidable. There have been multiple data breaches with popular websites such as
+    Equifax, Facebook, and Paypal. Many times your information is released to the Dark Web, so it's important to add MFA
+    and change your password right after a data breach to possibly save your account from being hacked into.
+    <br>
 
