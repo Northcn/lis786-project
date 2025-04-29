@@ -26,7 +26,7 @@ extorting money from users through ransomware; or interrupting normal business p
 <br>
 - Man-in-the-Middle (MitM) Attacks
     A cyberattack that intercepts communication between two parties. It allows the hacker to eavesdrop
-    on conversations or steal data.
+    on private conversations or steal data.
 <br>
 <br>
 - Brute Force Attacks
